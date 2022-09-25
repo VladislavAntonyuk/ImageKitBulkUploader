@@ -1,0 +1,9 @@
+{
+  "imagePath": "/Users/vladislav/images",
+  "imageKit": {
+    "publicKey": "public-key",
+    "privateKey": "private-key",
+    "urlEndpoint": "https://ik.imagekit.io/your-endpoint",
+    "transformationPosition": "path"
+  }
+}
